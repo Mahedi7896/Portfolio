@@ -8,7 +8,7 @@ Software QA Engineer
 
 Hello, I'm Mahedi Hasan. Since 2019, I've been immersed in studying and honing my skills to become a QA professional. Finding my niche in this field brings me immense joy, and I aspire to excel in ensuring the quality of products and services. With a keen interest in Cyber Security and Pentesting, I prioritize security in my work. I believe that as a QA, I have the potential to contribute to making the digital realm more inclusive for everyone. Through this portfolio, I aim to share my expertise in QA and demonstrate the practical skills I've acquired through courses, self-study, and hands-on experience. I'm committed to continuous growth in this dynamic field, currently focusing on expanding my knowledge and proficiency in test automation, particularly in Cypress.
 
-[My LinkedIn Profile]_(https://www.linkedin.com/in/sqmahedi-hasan/)
+[My LinkedIn Profile](https://www.linkedin.com/in/sqmahedi-hasan/)
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [sq.mahedihasan@gmail.com](mailto:sq.mahedihasan@gmail.com)
