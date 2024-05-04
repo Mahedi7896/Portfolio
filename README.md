@@ -26,21 +26,21 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 
 
 ### Tools
-Jira, Trello - project management
-Confluence - storing informations and documents about project
-qTest - bug tracking
-Slack - communication within the team
-Chrome Devtools - for better testing and improving bug reports
-Google Drive - storing data
-Git - for better work in development team and controlling software versions
-GitHub - supporting Git and preparing my repositories
-Markdown - for better and easy formatting GitHub
-Xampp - practicing SQL
-Postman - API testing
-Pycharm - IDE for Python
-Selenium
-Robot framework
-Visual Studio Code - practicing HTML and CSS
+* Jira, Trello - project management
+* Confluence - storing informations and documents about project
+* qTest - bug tracking
+* Slack - communication within the team
+* Chrome Devtools - for better testing and improving bug reports
+* Google Drive - storing data
+* Git - for better work in development team and controlling software versions
+* GitHub - supporting Git and preparing my repositories
+* Markdown - for better and easy formatting GitHub
+* Xampp - practicing SQL
+* Postman - API testing
+* Pycharm - IDE for Python
+* Selenium
+* Robot framework
+* Visual Studio Code - practicing HTML and CSS
 
 
 ### Tech Skills
