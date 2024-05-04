@@ -8,7 +8,9 @@ Software QA Engineer
 
 Hello, I'm Mahedi Hasan. Since 2019, I've been immersed in studying and honing my skills to become a QA professional. Finding my niche in this field brings me immense joy, and I aspire to excel in ensuring the quality of products and services. With a keen interest in Cyber Security and Pentesting, I prioritize security in my work. I believe that as a QA, I have the potential to contribute to making the digital realm more inclusive for everyone. Through this portfolio, I aim to share my expertise in QA and demonstrate the practical skills I've acquired through courses, self-study, and hands-on experience. I'm committed to continuous growth in this dynamic field, currently focusing on expanding my knowledge and proficiency in test automation, particularly in Cypress.
 
+
 [My LinkedIn Profile](https://www.linkedin.com/in/sqmahedi-hasan/)
+
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [sq.mahedihasan@gmail.com](mailto:sq.mahedihasan@gmail.com)
@@ -22,7 +24,26 @@ src="https://img.shields.io/github/followers/Mahedi7896?logo=github&style=for-th
 
 In the fast-paced realm of Software Quality Assurance, my two-year journey has been a thrilling adventure of discovery and mastery. With a keen eye for detail and a thirst for innovation, I've delved deep into the heart of quality control, sculpting digital experiences that captivate and inspire. Armed with the latest tools and techniques, I've fearlessly tackled challenges head-on, transforming defects into opportunities for growth. Through seamless collaboration and unwavering determination, I've elevated standards of excellence, leaving an unforgettable imprint on every project I touch.
 
-### Skills
+
+### Tools
+Jira, Trello - project management
+Confluence - storing informations and documents about project
+qTest - bug tracking
+Slack - communication within the team
+Chrome Devtools - for better testing and improving bug reports
+Google Drive - storing data
+Git - for better work in development team and controlling software versions
+GitHub - supporting Git and preparing my repositories
+Markdown - for better and easy formatting GitHub
+Xampp - practicing SQL
+Postman - API testing
+Pycharm - IDE for Python
+Selenium
+Robot framework
+Visual Studio Code - practicing HTML and CSS
+
+
+### Tech Skills
 
 
 <p align="left">
