@@ -73,6 +73,14 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 ### Certification
 * [How to create a Jira SCRUM project](https://coursera.org/share/e9e659e56c329712a0bc6f97205e6d5c)
 
+
+### Samples 🔬
+
+* Test plan
+* Test cases
+* Bug report
+* Test report
+
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/Mahadi.7869" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Mahedi7896" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sqmahedi-hasan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
@@ -84,6 +92,3 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 <a href="http://www.github.com/Mahedi7896"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahedi7896&stroke=3382ed&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="https://github.com/Mahedi7896" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedi7896&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
