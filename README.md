@@ -26,20 +26,20 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 
 
 ### Tools
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/en/tour), [Nulab Product Backlog](https://nulab.com/backlog/) - project management
-* Confluence - storing informations and documents about project
-* qTest - bug tracking
-* G-suite & Microsoft Teams - communication within the team
-* Chrome Devtools - for better testing and improving bug reports
-* Google Drive - storing data
-* Git - for better work in development team and controlling software versions
-* GitHub - supporting Git and preparing my repositories
-* Markdown - for better and easy formatting GitHub
-* Xampp - practicing SQL
-* Postman - API testing
-* Pycharm - IDE for Python
-* Selenium
-* Visual Studio Code - practicing HTML and CSS
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/en/tour), [Nulab Product Backlog](https://nulab.com/backlog/) - project management and bug tracking
+* [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
+* [G-suite](https://workspace.google.com/) & [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in) - communication within the team
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
+* [Google Drive](https://www.google.com/intl/en/drive/) - storing data
+* [Git](https://git-scm.com/) - for better work in development team and controlling software versions
+* [GitHub](https://github.com/) - supporting Git and preparing my repositories
+* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
+* [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
+* [Postman](https://www.postman.com/) - API testing
+* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [Selenium](https://www.selenium.dev/)
+* [Robot Framework](https://robotframework.org/)
+* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
 
 
 ### Tech Skills
