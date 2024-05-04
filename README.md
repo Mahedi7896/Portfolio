@@ -26,10 +26,10 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 
 
 ### Tools
-* Jira, Trello - project management
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/en/tour), [Nulab Product Backlog](https://nulab.com/backlog/) - project management
 * Confluence - storing informations and documents about project
 * qTest - bug tracking
-* Slack - communication within the team
+* G-suite & Microsoft Teams - communication within the team
 * Chrome Devtools - for better testing and improving bug reports
 * Google Drive - storing data
 * Git - for better work in development team and controlling software versions
@@ -39,7 +39,6 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 * Postman - API testing
 * Pycharm - IDE for Python
 * Selenium
-* Robot framework
 * Visual Studio Code - practicing HTML and CSS
 
 
