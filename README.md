@@ -42,13 +42,35 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
 
 
-### Tech Skills
+### Tech Skills 📁
 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+* Rest API testing
+* Graphql API testing
+* ISTQB Foundation Level knowledge
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Software testing
+* Test Planning
+* Creating test cases
+* Reporting bugs
+* Creating bug reports
+* Basic Python - for test automation
+* Basic HTML and CSS
+* Cypress UI automation
 
+### Soft skills 📁
+* precision
+* Team Player
+* communication
+* assertiveness
+* patience
+* empathy
+
+### Certification
+* [How to create a Jira SCRUM project](https://coursera.org/share/e9e659e56c329712a0bc6f97205e6d5c)
 
 ### Socials
 
