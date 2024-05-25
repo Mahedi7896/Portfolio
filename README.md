@@ -63,12 +63,12 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 * Cypress UI automation
 
 ### Soft skills 📁
-* precision
+* Precision
 * Team Player
-* communication
-* assertiveness
-* patience
-* empathy
+* Communication
+* Assertiveness
+* Patience
+* Empathy
 
 ### Certification
 * [How to create a Jira SCRUM project](https://coursera.org/share/e9e659e56c329712a0bc6f97205e6d5c)
