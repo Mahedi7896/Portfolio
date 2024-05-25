@@ -76,7 +76,7 @@ In the fast-paced realm of Software Quality Assurance, my two-year journey has b
 
 ### Samples 🔬
 
-* [Test plan]
+* [Test plan](https://github.com/Mahedi7896/Test-Plan)
 * [Test cases](https://github.com/Mahedi7896/All-Test-Cases)
 * [Bug report](https://github.com/Mahedi7896/Qcoom.com-Bug-Report)
 
